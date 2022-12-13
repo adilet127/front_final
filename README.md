@@ -1,24 +1,15 @@
-# front_final
-
-
-![alt text](assets/adik.png)
+# Language-Detectiion-
 
 
 
 
+![alt text](screenshots/2020-12-22.png)
+Hi User!         
 
 
+Its a language detection App. 
 
+This app easy to use so everyone can use it. 
 
-
-
-My random counry was about  Equatorial Guinea
-
-
-
-
-
-And decide to create project about similar to detect
-
-
-![alt text](assets/hana.png)
+This App can detect all common languages of the world. 
+ Khanaiym Belekova 
